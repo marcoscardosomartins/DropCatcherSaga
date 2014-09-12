@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@font-face {
+font-family: Brady;
+src: url('BradBunR.eot'); /* IE9 Compatibility Modes */
+src: url('BradBunR.eot?') format('eot'),  /* IE6-IE8 */
+url('BradBunR.woff') format('woff'), /* Modern Browsers */
+url('BradBunR.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BradBunR.svg#svgBradBunR') format('svg'); /* Legacy iOS */
+}
